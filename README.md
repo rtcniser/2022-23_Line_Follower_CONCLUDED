@@ -18,7 +18,7 @@ Written on Arduino. There are two version:
 # Circuit
 
 # Chassis 
-
+The top screw holes might be a bit off.
 # Members
 Aditya Kamble (Captain) - Chassis Design, Co-ordination  
 Vishal Meena - Code, Algorithm  
