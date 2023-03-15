@@ -14,10 +14,12 @@ Autonomous Line follower, started as a part of [SDP 2.0](https://www.niser.ac.in
 # Working Idea
 # Code (Arduino)
 Written on Arduino. There are two version: 
-- Casewise/Conditional high-lows (_Used in NIRMAN-2.0_)
-    Codes till v3
-    Codes 
-- PID (_Used in Wissenaire-23_)
+- Casewise/Conditional high-lows (_Used in NIRMAN-2.0_)  
+    Codes: v0 and v3   
+- PID (_Used in Wissenaire-23_)  
+    Codes: v20,v21,v22,v32,v4
+    v4 being the latest
+    _Note_  that v4 code has an `speed(255,255)` in `//sharp left` case. This was a deliberate change to account for the multiple left turns in the track. This also helped in escaping a right loop, significantly reducing lap time.
 # Circuit
 Generic Design for motors with 5 sensors to arduino.
 ### Wirings
@@ -35,6 +37,6 @@ Aditya Kamble (Captain) - Chassis Design, Co-ordination
 Vishal Meena - Code, Algorithm  
 Aayush Jelmeria - Co-ordination, Track Design  
 Karan K. Sahoo - Chassis Design, Algorithm  
-Sanat k. Behera - Chassis Design, Circuit  
+Sanat K. Behera - Chassis Design, Circuit  
 S. Mahesh (Mentor) - Code, Algorithm, Working Idea  
 [Girija S. Ray](https://github.com/Alpha3125) (Mentor) - Code, Track Design, Circuit  
