@@ -1,6 +1,7 @@
 # Line-Follower
-Autonomous Line follower, started as a part of [SDP 2.0](https://www.niser.ac.in/~smishra/club/rtc/skill-development-program/) in attempt for competitions.  
-***1st Runners-up*** in Line Follower, [NIRMAN 2.0](https://www.nirmansilicon.tech/), Silicon Institute, Bhubaneswar. 
+Autonomous Line follower, started as a part of [SDP 2.0](https://www.niser.ac.in/~smishra/club/rtc/skill-development-program/) in an attempt for competitions.  
+***1st Runners-up*** in Line Follower, [NIRMAN 2.0](https://www.nirmansilicon.tech/), Silicon Institute, Bhubaneswar.  
+***Winners*** in Trekkon(Line follower), [WISSENAIRE-23](https://www.wissenaire.org/), Indian Institute of Technology, Bhubaneswar. 
 # Components & Materials
 - Arduino Uno & Connector
 - Two parallel lines of bread-board, Jumpers, Switch-SPST
@@ -14,6 +15,8 @@ Autonomous Line follower, started as a part of [SDP 2.0](https://www.niser.ac.in
 # Code (Arduino)
 Written on Arduino. There are two version: 
 - Casewise/Conditional high-lows (_Used in NIRMAN-2.0_)
+    Codes till v3
+    Codes 
 - PID (_Used in Wissenaire-23_)
 # Circuit
 Generic Design for motors with 5 sensors to arduino.
@@ -24,7 +27,7 @@ Generic Design for motors with 5 sensors to arduino.
 - Front panel to stick IR sensors
 - Cover panel to sandwich and hold the motors.
 
-Since the cut was made on 5mm acrylic, the front panel was not required in the final setup. _Note_ that using the front panel keeps all the sensors one line. _Otherwise_ it stays in an inverted V shape which can give some strategical advantage (like detecting crosses better).
+Since the cut was made on 5mm acrylic, the front panel was not required in the final setup. _Note_ that using the front panel keeps all the sensors one line, as in a generic setup. _Otherwise_ it stays in an inverted V shape which can give some strategical advantage (like detecting crosses better).
 ### Irregularities/Errors 
 The top screw holes might be a bit off. 
 # Members
