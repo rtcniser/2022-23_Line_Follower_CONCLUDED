@@ -18,7 +18,7 @@ Written on Arduino. There are two version:
     Codes: v0 and v3   
 - PID (_Used in Wissenaire-23_)  
     Codes: v20,v21,v22,v32,v4
-    v4 being the latest
+    v4 being the latest.  
     _Note_  that v4 code has an `speed(255,255)` in `//sharp left` case. This was a deliberate change to account for the multiple left turns in the track. This also helped in escaping a right loop, significantly reducing lap time.
 # Circuit
 Generic Design for motors with 5 sensors to arduino.
