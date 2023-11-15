@@ -62,9 +62,9 @@ Since the cut was made on 5mm acrylic, the front panel was not required in the f
 The top screw holes might be a bit off. 
 # Members
 Aditya Kamble (Captain) - Chassis Design, Co-ordination  
-Vishal Meena - Code, Algorithm  
+[Vishal Meena](https://github.com/CodeScythe0) - Code, Algorithm  
 Aayush Jelmeria - Co-ordination, Track Design  
-Karan K. Sahoo - Chassis Design, Algorithm  
+Karan K. Sahoo - Chassis Design, Algorithm, Documentation
 Sanat K. Behera - Chassis Design, Circuit  
 S. Mahesh (Mentor) - Code, Algorithm, Working Idea  
-[Girija S. Ray](https://github.com/Alpha3125) (Mentor) - Code, Track Design, Circuit  
+[Girija S. Ray](https://github.com/Alpha3125) (Mentor) - Code, Track Design, Circuit, Documentation
